@@ -1,7 +1,7 @@
 # SigmaInjector
 
 > [!IMPORTANT]
-> <ins>skeet.dll needs to be in the same folder as the SigmaInjector.</ins>
+> <ins>`skeet.dll` needs to be in the same folder as the SigmaInjector.</ins>
 
 1. Download the SigmaInjector.
 2. Run the SigmaInjector.
