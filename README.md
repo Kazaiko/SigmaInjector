@@ -19,6 +19,6 @@ SigmaInjector is a LoadLibrary-based injector designed for QHide Skeet. It alloc
 ### Source References
 - LoadLibrary injector source: [GitHub - adamhlt/DLL-Injector](https://github.com/adamhlt/DLL-Injector)
 - LoadLibrary injection method for VAC: [GitHub - v3ctra/load-lib-injector](https://github.com/v3ctra/load-lib-injector)
-- 
+
 ## Thanks
 Thanks to **Spencer-png** and **xdcdmaybe**.
