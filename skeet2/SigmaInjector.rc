@@ -1,0 +1,5 @@
+#define IDI_ICON1 101
+#define IDR_MY_SOUND 102
+
+IDI_ICON1 ICON "SigmaInjector.ico"
+IDR_MY_SOUND WAV "SigmaInjector.wav"
